@@ -1,0 +1,11 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.h5
+*.keras
+*.pt
+*.pth
+data/ 
+database/
+gp_env/
